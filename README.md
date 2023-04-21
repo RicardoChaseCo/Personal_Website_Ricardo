@@ -1,3 +1,6 @@
-# RicardoChaseCo.github.io
+### Tech Stacks
 
-Huge thanks to the Youtuber - JavaScript Mastery, I built this project with his help.
+Three.js, Framer Motion, React Three Fiber, Email.js, Vite
+
+### Link
+https://xingnanjiang.com/
